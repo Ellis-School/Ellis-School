@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning GoLang and Scala as well as getting to know my way around Linux
 - 🏫 I'm currently attending Whitgift school
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellispw)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellispw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ellis-School/Ellis-School is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
