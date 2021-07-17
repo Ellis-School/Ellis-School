@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ellis
-- 👀 I’m interested in GoLang, Scala, Java and Python
+- 👀 I’m interested in GoLang, Rust, JVM and Python
 - 🌳 I currently use C/C++ on a day-to-day basis
-- 🌱 I’m currently learning GoLang and Scala as well as getting to know my way around Linux
+- 🌱 I’m currently learning GoLang and Rust
 - 🏫 I'm currently attending Whitgift school
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellispw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
